@@ -15,3 +15,9 @@
 # Underline 2
 
 New Readme to tell people about the project.
+
+- _italic_ (first mode).
+- _italic_ (second mode).
+- **bold** (first mode).
+- **bold** (second mode).
+- ~~underline~~.
