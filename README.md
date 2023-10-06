@@ -21,3 +21,45 @@ New Readme to tell people about the project.
 - **bold** (first mode).
 - **bold** (second mode).
 - ~~underline~~.
+
+1. Item
+2. item
+3. temi
+
+- [Link](http://www.google.com)
+
+![Avatar GitHub](https://avatars.githubusercontent.com/u/63266271?v=4)
+
+```JSON
+  [
+    {
+      "title": "apples",
+      "count": [12000, 20000, null],
+      "description": {
+        "text": "...",
+        "sensitive": false
+      }
+    }
+  ]
+```
+
+| Name   | Last Name | Doc       |
+| ------ | --------- | --------- |
+| Camilo | Roldán    | 123456789 |
+| Thomas | Thompson  | 987654321 |
+
+Cite:
+
+> This is a cite.
+
+Another text separated by the cite:
+
+> Another cite.
+
+Horizontal Line
+
+---
+
+Another text separated
+
+Another paragraph separated.
